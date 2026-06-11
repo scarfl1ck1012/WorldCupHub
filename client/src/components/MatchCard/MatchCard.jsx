@@ -24,11 +24,15 @@ export default function MatchCard({ match, odds, cheeredTeam, onCheer }) {
           <span className="team-name">{getTeamLabel(match.homeCode)}</span>
           {isFinished && <span className="team-score">{match.homeScore}</span>}
         </div>
-        <span className="match-vs">{isFinished ? '-' : 'vs'}</span>
+        
+        <div className="match-vs">
+          {isFinished ? '-' : 'VS'}
+        </div>
+        
         <div className="match-team away">
-          {isFinished && <span className="team-score">{match.awayScore}</span>}
-          <span className="team-name">{getTeamLabel(match.awayCode)}</span>
           <span className="team-flag">{getFlag(match.awayCode)}</span>
+          <span className="team-name">{getTeamLabel(match.awayCode)}</span>
+          {isFinished && <span className="team-score">{match.awayScore}</span>}
         </div>
       </Link>
 

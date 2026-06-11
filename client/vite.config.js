@@ -9,7 +9,7 @@ export default defineConfig({
     // For client-only dev, proxy to Vercel dev (port 3000) or legacy Express (3001).
     proxy: {
       '/api': {
-        target: process.env.VITE_DEV_API || 'http://localhost:3000',
+        target: process.env.VITE_DEV_API || 'http://localhost:3001',
         changeOrigin: true,
       },
     },
