@@ -10,8 +10,18 @@ export default async function handler(req, res) {
   }
 
   try {
-    const slug = req.query.slug;
-    const segments = slug ? (Array.isArray(slug) ? slug : [slug]) : [];
+    // Parse URL. E.g. /api/matches?year=2026 -> /api/matches
+    const parsedUrl = new URL(req.url, `http://${req.headers.host || 'localhost'}`);
+    let pathname = parsedUrl.pathname;
+    
+    // Remove /api prefix if present
+    if (pathname.startsWith('/api/')) {
+      pathname = pathname.slice(5);
+    } else if (pathname === '/api') {
+      pathname = '';
+    }
+
+    const segments = pathname ? pathname.split('/').filter(Boolean) : [];
     await routeRequest(req, res, segments);
   } catch (err) {
     console.error('API error:', err);

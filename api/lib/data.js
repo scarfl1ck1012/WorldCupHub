@@ -1,11 +1,22 @@
 import fs from 'fs';
 import path from 'path';
 import { buildEloRatings, predictAllFixtures } from '../../server/engines/elo.js';
-
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const DATA_DIR = path.join(__dirname, '../../data', 'processed');
+
+// Try multiple paths: Vercel bundles files relative to cwd, local dev uses __dirname
+function resolveDataDir() {
+  const candidates = [
+    path.join(process.cwd(), 'data', 'processed'),
+    path.join(__dirname, '../../data', 'processed'),
+  ];
+  for (const dir of candidates) {
+    if (fs.existsSync(dir)) return dir;
+  }
+  return candidates[0]; // fallback
+}
+const DATA_DIR = resolveDataDir();
 
 let cache = { loadedAt: 0, data: null };
 

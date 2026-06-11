@@ -3,7 +3,7 @@
   "outputDirectory": "client/dist",
   "installCommand": "npm install",
   "functions": {
-    "api/[[...slug]].js": {
+    "api/index.js": {
       "maxDuration": 10,
       "includeFiles": "data/processed/**"
     }
@@ -11,7 +11,7 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "/api/$1"
+      "destination": "/api/index"
     },
     {
       "source": "/(.*)",
