@@ -5,7 +5,7 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "https://wc-app-api.onrender.com/api/$1"
+      "destination": "https://worldcuphub.onrender.com/api/$1"
     },
     {
       "source": "/(.*)",
