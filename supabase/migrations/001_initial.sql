@@ -75,7 +75,7 @@ create trigger on_auth_user_created
   for each row execute function public.handle_new_user();
 
 -- Leaderboard view
-create or replace view public.prediction_leaderboard as
+create or replace view public.prediction_leaderboard with (security_invoker = true) as
 select
   p.id as user_id,
   p.display_name,

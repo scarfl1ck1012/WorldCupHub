@@ -2,7 +2,10 @@ import fs from 'fs';
 import path from 'path';
 import { buildEloRatings, predictAllFixtures } from '../../server/engines/elo.js';
 
-const DATA_DIR = path.join(process.cwd(), 'data', 'processed');
+import { fileURLToPath } from 'url';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const DATA_DIR = path.join(__dirname, '../../data', 'processed');
 
 let cache = { loadedAt: 0, data: null };
 
