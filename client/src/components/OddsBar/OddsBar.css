@@ -1,0 +1,10 @@
+.odds-bar-wrapper.compact .odds-bar { height: 24px; }
+.odds-bar-wrapper.compact .odds-segment { font-size: 9px; }
+
+.odds-labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 10px;
+  color: var(--text-muted);
+  margin-top: 4px;
+}

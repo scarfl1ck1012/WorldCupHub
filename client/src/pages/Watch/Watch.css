@@ -1,0 +1,68 @@
+.legal-notice {
+  padding: var(--space-4);
+  margin-bottom: var(--space-5);
+  border-color: var(--info);
+  background: rgba(64, 196, 255, 0.05);
+}
+.legal-notice strong { display: block; margin-bottom: var(--space-2); color: var(--info); }
+.legal-notice p { font-size: var(--text-sm); color: var(--text-muted); }
+
+.country-select {
+  margin-bottom: var(--space-4);
+}
+.country-select label {
+  display: block;
+  font-size: var(--text-sm);
+  color: var(--text-muted);
+  margin-bottom: var(--space-2);
+}
+.country-select select {
+  width: 100%;
+  max-width: 300px;
+  padding: var(--space-3);
+  background: rgba(0,0,0,0.3);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  color: var(--text-primary);
+  font-size: var(--text-base);
+}
+
+.broadcaster-card { padding: var(--space-5); margin-bottom: var(--space-5); }
+.broadcaster-card h2 { margin-bottom: var(--space-4); color: var(--wc-gold); }
+
+.network-list { display: flex; flex-direction: column; gap: var(--space-3); }
+.network-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--space-3);
+  background: rgba(0,0,0,0.2);
+  border-radius: var(--radius-md);
+  flex-wrap: wrap;
+  gap: var(--space-2);
+}
+.network-name { font-weight: 600; }
+
+.all-broadcasters h3 { margin-bottom: var(--space-3); font-size: var(--text-base); }
+.broadcaster-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: var(--space-3);
+  margin-bottom: var(--space-5);
+}
+.broadcaster-tile {
+  padding: var(--space-3);
+  text-align: left;
+  cursor: pointer;
+  border: 1px solid var(--border-subtle);
+  background: transparent;
+  color: var(--text-primary);
+  transition: var(--transition-fast);
+}
+.broadcaster-tile:hover, .broadcaster-tile.active { border-color: var(--wc-green); }
+.broadcaster-tile strong { display: block; margin-bottom: 4px; }
+.broadcaster-tile span { font-size: var(--text-xs); color: var(--text-muted); }
+
+.fifa-plus { padding: var(--space-5); text-align: center; }
+.fifa-plus h3 { margin-bottom: var(--space-2); }
+.fifa-plus p { font-size: var(--text-sm); color: var(--text-muted); margin-bottom: var(--space-4); }

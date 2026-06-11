@@ -1,0 +1,1758 @@
+[
+  {
+    "code": "FRA",
+    "name": "France",
+    "played": 92,
+    "wins": 49,
+    "draws": 17,
+    "losses": 26,
+    "goalsFor": 168,
+    "goalsAgainst": 105,
+    "tournaments": [
+      2022,
+      2019,
+      2018,
+      2015,
+      2014,
+      2011,
+      2010,
+      2006,
+      2003,
+      2002,
+      1998,
+      1986,
+      1982,
+      1978,
+      1966,
+      1958,
+      1954,
+      1938,
+      1934,
+      1930
+    ],
+    "points": 164
+  },
+  {
+    "code": "MEX",
+    "name": "Mexico",
+    "played": 69,
+    "wins": 17,
+    "draws": 18,
+    "losses": 34,
+    "goalsFor": 68,
+    "goalsAgainst": 131,
+    "tournaments": [
+      2022,
+      2018,
+      2015,
+      2014,
+      2011,
+      2010,
+      2006,
+      2002,
+      1999,
+      1998,
+      1994,
+      1986,
+      1978,
+      1970,
+      1966,
+      1962,
+      1958,
+      1954,
+      1950,
+      1930
+    ],
+    "points": 69
+  },
+  {
+    "code": "USA",
+    "name": "United States",
+    "played": 87,
+    "wins": 49,
+    "draws": 14,
+    "losses": 24,
+    "goalsFor": 178,
+    "goalsAgainst": 104,
+    "tournaments": [
+      2022,
+      2019,
+      2015,
+      2014,
+      2011,
+      2010,
+      2007,
+      2006,
+      2003,
+      2002,
+      1999,
+      1998,
+      1995,
+      1994,
+      1991,
+      1990,
+      1950,
+      1934,
+      1930
+    ],
+    "points": 161
+  },
+  {
+    "code": "BEL",
+    "name": "Belgium",
+    "played": 51,
+    "wins": 21,
+    "draws": 10,
+    "losses": 20,
+    "goalsFor": 69,
+    "goalsAgainst": 74,
+    "tournaments": [
+      2022,
+      2018,
+      2014,
+      2002,
+      1998,
+      1994,
+      1990,
+      1986,
+      1982,
+      1970,
+      1954,
+      1938,
+      1934,
+      1930
+    ],
+    "points": 73
+  },
+  {
+    "code": "YUG",
+    "name": "Yugoslavia",
+    "played": 37,
+    "wins": 16,
+    "draws": 8,
+    "losses": 13,
+    "goalsFor": 60,
+    "goalsAgainst": 46,
+    "tournaments": [
+      1998,
+      1990,
+      1982,
+      1974,
+      1962,
+      1958,
+      1954,
+      1950,
+      1930
+    ],
+    "points": 56
+  },
+  {
+    "code": "BRA",
+    "name": "Brazil",
+    "played": 148,
+    "wins": 96,
+    "draws": 23,
+    "losses": 29,
+    "goalsFor": 303,
+    "goalsAgainst": 148,
+    "tournaments": [
+      2022,
+      2019,
+      2018,
+      2015,
+      2014,
+      2011,
+      2010,
+      2007,
+      2006,
+      2003,
+      2002,
+      1999,
+      1998,
+      1995,
+      1994,
+      1991,
+      1990,
+      1986,
+      1982,
+      1978,
+      1974,
+      1970,
+      1966,
+      1962,
+      1958,
+      1954,
+      1950,
+      1938,
+      1934,
+      1930
+    ],
+    "points": 311
+  },
+  {
+    "code": "ROU",
+    "name": "Romania",
+    "played": 21,
+    "wins": 8,
+    "draws": 5,
+    "losses": 8,
+    "goalsFor": 30,
+    "goalsAgainst": 32,
+    "tournaments": [
+      1998,
+      1994,
+      1990,
+      1970,
+      1938,
+      1934,
+      1930
+    ],
+    "points": 29
+  },
+  {
+    "code": "PER",
+    "name": "Peru",
+    "played": 18,
+    "wins": 5,
+    "draws": 3,
+    "losses": 10,
+    "goalsFor": 21,
+    "goalsAgainst": 33,
+    "tournaments": [
+      2018,
+      1982,
+      1978,
+      1970,
+      1930
+    ],
+    "points": 18
+  },
+  {
+    "code": "ARG",
+    "name": "Argentina",
+    "played": 97,
+    "wins": 47,
+    "draws": 19,
+    "losses": 31,
+    "goalsFor": 157,
+    "goalsAgainst": 138,
+    "tournaments": [
+      2022,
+      2019,
+      2018,
+      2014,
+      2010,
+      2007,
+      2006,
+      2003,
+      2002,
+      1998,
+      1994,
+      1990,
+      1986,
+      1982,
+      1978,
+      1974,
+      1966,
+      1962,
+      1958,
+      1934,
+      1930
+    ],
+    "points": 160
+  },
+  {
+    "code": "CHL",
+    "name": "Chile",
+    "played": 36,
+    "wins": 12,
+    "draws": 7,
+    "losses": 17,
+    "goalsFor": 42,
+    "goalsAgainst": 54,
+    "tournaments": [
+      2019,
+      2014,
+      2010,
+      1998,
+      1982,
+      1974,
+      1966,
+      1962,
+      1950,
+      1930
+    ],
+    "points": 43
+  },
+  {
+    "code": "BOL",
+    "name": "Bolivia",
+    "played": 6,
+    "wins": 0,
+    "draws": 1,
+    "losses": 5,
+    "goalsFor": 1,
+    "goalsAgainst": 20,
+    "tournaments": [
+      1994,
+      1950,
+      1930
+    ],
+    "points": 1
+  },
+  {
+    "code": "PRY",
+    "name": "Paraguay",
+    "played": 27,
+    "wins": 7,
+    "draws": 10,
+    "losses": 10,
+    "goalsFor": 30,
+    "goalsAgainst": 38,
+    "tournaments": [
+      2010,
+      2006,
+      2002,
+      1998,
+      1986,
+      1958,
+      1950,
+      1930
+    ],
+    "points": 31
+  },
+  {
+    "code": "URY",
+    "name": "Uruguay",
+    "played": 59,
+    "wins": 25,
+    "draws": 13,
+    "losses": 21,
+    "goalsFor": 89,
+    "goalsAgainst": 76,
+    "tournaments": [
+      2022,
+      2018,
+      2014,
+      2010,
+      2002,
+      1990,
+      1986,
+      1974,
+      1970,
+      1966,
+      1962,
+      1954,
+      1950,
+      1930
+    ],
+    "points": 88
+  },
+  {
+    "code": "AUT",
+    "name": "Austria",
+    "played": 29,
+    "wins": 12,
+    "draws": 4,
+    "losses": 13,
+    "goalsFor": 43,
+    "goalsAgainst": 47,
+    "tournaments": [
+      1998,
+      1990,
+      1982,
+      1978,
+      1958,
+      1954,
+      1934
+    ],
+    "points": 40
+  },
+  {
+    "code": "CSK",
+    "name": "Czechoslovakia",
+    "played": 30,
+    "wins": 11,
+    "draws": 5,
+    "losses": 14,
+    "goalsFor": 44,
+    "goalsAgainst": 45,
+    "tournaments": [
+      1990,
+      1982,
+      1970,
+      1962,
+      1958,
+      1954,
+      1938,
+      1934
+    ],
+    "points": 38
+  },
+  {
+    "code": "DEU",
+    "name": "Germany",
+    "played": 156,
+    "wins": 98,
+    "draws": 26,
+    "losses": 32,
+    "goalsFor": 353,
+    "goalsAgainst": 169,
+    "tournaments": [
+      2022,
+      2019,
+      2018,
+      2015,
+      2014,
+      2011,
+      2010,
+      2007,
+      2006,
+      2003,
+      2002,
+      1999,
+      1998,
+      1995,
+      1994,
+      1991,
+      1990,
+      1986,
+      1982,
+      1978,
+      1974,
+      1970,
+      1966,
+      1962,
+      1958,
+      1954,
+      1938,
+      1934
+    ],
+    "points": 320
+  },
+  {
+    "code": "HUN",
+    "name": "Hungary",
+    "played": 32,
+    "wins": 15,
+    "draws": 3,
+    "losses": 14,
+    "goalsFor": 87,
+    "goalsAgainst": 57,
+    "tournaments": [
+      1986,
+      1982,
+      1978,
+      1966,
+      1962,
+      1958,
+      1954,
+      1938,
+      1934
+    ],
+    "points": 48
+  },
+  {
+    "code": "EGY",
+    "name": "Egypt",
+    "played": 7,
+    "wins": 0,
+    "draws": 2,
+    "losses": 5,
+    "goalsFor": 5,
+    "goalsAgainst": 12,
+    "tournaments": [
+      2018,
+      1990,
+      1934
+    ],
+    "points": 2
+  },
+  {
+    "code": "ITA",
+    "name": "Italy",
+    "played": 95,
+    "wins": 51,
+    "draws": 22,
+    "losses": 22,
+    "goalsFor": 148,
+    "goalsAgainst": 89,
+    "tournaments": [
+      2019,
+      2014,
+      2010,
+      2006,
+      2002,
+      1999,
+      1998,
+      1994,
+      1991,
+      1990,
+      1986,
+      1982,
+      1978,
+      1974,
+      1970,
+      1966,
+      1962,
+      1954,
+      1950,
+      1938,
+      1934
+    ],
+    "points": 175
+  },
+  {
+    "code": "ESP",
+    "name": "Spain",
+    "played": 74,
+    "wins": 32,
+    "draws": 19,
+    "losses": 23,
+    "goalsFor": 114,
+    "goalsAgainst": 83,
+    "tournaments": [
+      2022,
+      2019,
+      2018,
+      2015,
+      2014,
+      2010,
+      2006,
+      2002,
+      1998,
+      1994,
+      1990,
+      1986,
+      1982,
+      1978,
+      1966,
+      1962,
+      1950,
+      1934
+    ],
+    "points": 115
+  },
+  {
+    "code": "SWE",
+    "name": "Sweden",
+    "played": 91,
+    "wins": 42,
+    "draws": 18,
+    "losses": 31,
+    "goalsFor": 151,
+    "goalsAgainst": 121,
+    "tournaments": [
+      2019,
+      2018,
+      2015,
+      2011,
+      2007,
+      2006,
+      2003,
+      2002,
+      1999,
+      1995,
+      1994,
+      1991,
+      1990,
+      1978,
+      1974,
+      1970,
+      1958,
+      1950,
+      1938,
+      1934
+    ],
+    "points": 144
+  },
+  {
+    "code": "CHE",
+    "name": "Switzerland",
+    "played": 45,
+    "wins": 15,
+    "draws": 8,
+    "losses": 22,
+    "goalsFor": 66,
+    "goalsAgainst": 78,
+    "tournaments": [
+      2022,
+      2018,
+      2015,
+      2014,
+      2010,
+      2006,
+      1994,
+      1966,
+      1962,
+      1954,
+      1950,
+      1938,
+      1934
+    ],
+    "points": 53
+  },
+  {
+    "code": "NLD",
+    "name": "Netherlands",
+    "played": 66,
+    "wins": 37,
+    "draws": 15,
+    "losses": 14,
+    "goalsFor": 110,
+    "goalsAgainst": 61,
+    "tournaments": [
+      2022,
+      2019,
+      2015,
+      2014,
+      2010,
+      2006,
+      1998,
+      1994,
+      1990,
+      1978,
+      1974,
+      1938,
+      1934
+    ],
+    "points": 126
+  },
+  {
+    "code": "CUB",
+    "name": "Cuba",
+    "played": 3,
+    "wins": 1,
+    "draws": 1,
+    "losses": 1,
+    "goalsFor": 5,
+    "goalsAgainst": 12,
+    "tournaments": [
+      1938
+    ],
+    "points": 4
+  },
+  {
+    "code": "IDN",
+    "name": "Dutch East Indies",
+    "played": 1,
+    "wins": 0,
+    "draws": 0,
+    "losses": 1,
+    "goalsFor": 0,
+    "goalsAgainst": 6,
+    "tournaments": [
+      1938
+    ],
+    "points": 0
+  },
+  {
+    "code": "NOR",
+    "name": "Norway",
+    "played": 48,
+    "wins": 26,
+    "draws": 7,
+    "losses": 15,
+    "goalsFor": 100,
+    "goalsAgainst": 60,
+    "tournaments": [
+      2019,
+      2015,
+      2011,
+      2007,
+      2003,
+      1999,
+      1998,
+      1995,
+      1994,
+      1991,
+      1938
+    ],
+    "points": 85
+  },
+  {
+    "code": "POL",
+    "name": "Poland",
+    "played": 38,
+    "wins": 17,
+    "draws": 6,
+    "losses": 15,
+    "goalsFor": 49,
+    "goalsAgainst": 50,
+    "tournaments": [
+      2022,
+      2018,
+      2006,
+      2002,
+      1986,
+      1982,
+      1978,
+      1974,
+      1938
+    ],
+    "points": 57
+  },
+  {
+    "code": "ENG",
+    "name": "England",
+    "played": 100,
+    "wins": 47,
+    "draws": 26,
+    "losses": 27,
+    "goalsFor": 147,
+    "goalsAgainst": 98,
+    "tournaments": [
+      2022,
+      2019,
+      2018,
+      2015,
+      2014,
+      2011,
+      2010,
+      2007,
+      2006,
+      2002,
+      1998,
+      1995,
+      1990,
+      1986,
+      1982,
+      1970,
+      1966,
+      1962,
+      1958,
+      1954,
+      1950
+    ],
+    "points": 167
+  },
+  {
+    "code": "SCO",
+    "name": "Scotland",
+    "played": 26,
+    "wins": 4,
+    "draws": 8,
+    "losses": 14,
+    "goalsFor": 30,
+    "goalsAgainst": 48,
+    "tournaments": [
+      2019,
+      1998,
+      1990,
+      1986,
+      1982,
+      1978,
+      1974,
+      1958,
+      1954
+    ],
+    "points": 20
+  },
+  {
+    "code": "KOR",
+    "name": "South Korea",
+    "played": 48,
+    "wins": 8,
+    "draws": 11,
+    "losses": 29,
+    "goalsFor": 45,
+    "goalsAgainst": 105,
+    "tournaments": [
+      2022,
+      2019,
+      2018,
+      2015,
+      2014,
+      2010,
+      2006,
+      2003,
+      2002,
+      1998,
+      1994,
+      1990,
+      1986,
+      1954
+    ],
+    "points": 35
+  },
+  {
+    "code": "TUR",
+    "name": "Turkey",
+    "played": 10,
+    "wins": 5,
+    "draws": 1,
+    "losses": 4,
+    "goalsFor": 20,
+    "goalsAgainst": 17,
+    "tournaments": [
+      2002,
+      1954
+    ],
+    "points": 16
+  },
+  {
+    "code": "NIR",
+    "name": "Northern Ireland",
+    "played": 13,
+    "wins": 3,
+    "draws": 5,
+    "losses": 5,
+    "goalsFor": 13,
+    "goalsAgainst": 23,
+    "tournaments": [
+      1986,
+      1982,
+      1958
+    ],
+    "points": 14
+  },
+  {
+    "code": "WAL",
+    "name": "Wales",
+    "played": 8,
+    "wins": 1,
+    "draws": 4,
+    "losses": 3,
+    "goalsFor": 5,
+    "goalsAgainst": 10,
+    "tournaments": [
+      2022,
+      1958
+    ],
+    "points": 7
+  },
+  {
+    "code": "SUN",
+    "name": "Soviet Union",
+    "played": 31,
+    "wins": 15,
+    "draws": 6,
+    "losses": 10,
+    "goalsFor": 53,
+    "goalsAgainst": 34,
+    "tournaments": [
+      1990,
+      1986,
+      1982,
+      1970,
+      1966,
+      1962,
+      1958
+    ],
+    "points": 51
+  },
+  {
+    "code": "COL",
+    "name": "Colombia",
+    "played": 29,
+    "wins": 10,
+    "draws": 5,
+    "losses": 14,
+    "goalsFor": 36,
+    "goalsAgainst": 39,
+    "tournaments": [
+      2018,
+      2015,
+      2014,
+      2011,
+      1998,
+      1994,
+      1990,
+      1962
+    ],
+    "points": 35
+  },
+  {
+    "code": "BGR",
+    "name": "Bulgaria",
+    "played": 26,
+    "wins": 3,
+    "draws": 8,
+    "losses": 15,
+    "goalsFor": 22,
+    "goalsAgainst": 53,
+    "tournaments": [
+      1998,
+      1994,
+      1986,
+      1974,
+      1970,
+      1966,
+      1962
+    ],
+    "points": 17
+  },
+  {
+    "code": "PRK",
+    "name": "North Korea",
+    "played": 20,
+    "wins": 4,
+    "draws": 3,
+    "losses": 13,
+    "goalsFor": 18,
+    "goalsAgainst": 41,
+    "tournaments": [
+      2011,
+      2010,
+      2007,
+      2003,
+      1999,
+      1966
+    ],
+    "points": 15
+  },
+  {
+    "code": "PRT",
+    "name": "Portugal",
+    "played": 35,
+    "wins": 17,
+    "draws": 6,
+    "losses": 12,
+    "goalsFor": 61,
+    "goalsAgainst": 41,
+    "tournaments": [
+      2022,
+      2018,
+      2014,
+      2010,
+      2006,
+      2002,
+      1986,
+      1966
+    ],
+    "points": 57
+  },
+  {
+    "code": "ISR",
+    "name": "Israel",
+    "played": 3,
+    "wins": 0,
+    "draws": 2,
+    "losses": 1,
+    "goalsFor": 1,
+    "goalsAgainst": 3,
+    "tournaments": [
+      1970
+    ],
+    "points": 2
+  },
+  {
+    "code": "SLV",
+    "name": "El Salvador",
+    "played": 6,
+    "wins": 0,
+    "draws": 0,
+    "losses": 6,
+    "goalsFor": 1,
+    "goalsAgainst": 22,
+    "tournaments": [
+      1982,
+      1970
+    ],
+    "points": 0
+  },
+  {
+    "code": "MAR",
+    "name": "Morocco",
+    "played": 23,
+    "wins": 5,
+    "draws": 7,
+    "losses": 11,
+    "goalsFor": 20,
+    "goalsAgainst": 27,
+    "tournaments": [
+      2022,
+      2018,
+      1998,
+      1994,
+      1986,
+      1970
+    ],
+    "points": 22
+  },
+  {
+    "code": "DDR",
+    "name": "East Germany",
+    "played": 6,
+    "wins": 2,
+    "draws": 2,
+    "losses": 2,
+    "goalsFor": 5,
+    "goalsAgainst": 5,
+    "tournaments": [
+      1974
+    ],
+    "points": 8
+  },
+  {
+    "code": "AUS",
+    "name": "Australia",
+    "played": 46,
+    "wins": 11,
+    "draws": 10,
+    "losses": 25,
+    "goalsFor": 55,
+    "goalsAgainst": 87,
+    "tournaments": [
+      2022,
+      2019,
+      2018,
+      2015,
+      2014,
+      2011,
+      2010,
+      2007,
+      2006,
+      2003,
+      1999,
+      1995,
+      1974
+    ],
+    "points": 43
+  },
+  {
+    "code": "COD",
+    "name": "Zaire",
+    "played": 3,
+    "wins": 0,
+    "draws": 0,
+    "losses": 3,
+    "goalsFor": 0,
+    "goalsAgainst": 14,
+    "tournaments": [
+      1974
+    ],
+    "points": 0
+  },
+  {
+    "code": "HTI",
+    "name": "Haiti",
+    "played": 3,
+    "wins": 0,
+    "draws": 0,
+    "losses": 3,
+    "goalsFor": 2,
+    "goalsAgainst": 14,
+    "tournaments": [
+      1974
+    ],
+    "points": 0
+  },
+  {
+    "code": "TUN",
+    "name": "Tunisia",
+    "played": 18,
+    "wins": 3,
+    "draws": 5,
+    "losses": 10,
+    "goalsFor": 14,
+    "goalsAgainst": 26,
+    "tournaments": [
+      2022,
+      2018,
+      2006,
+      2002,
+      1998,
+      1978
+    ],
+    "points": 14
+  },
+  {
+    "code": "IRN",
+    "name": "Iran",
+    "played": 18,
+    "wins": 3,
+    "draws": 4,
+    "losses": 11,
+    "goalsFor": 13,
+    "goalsAgainst": 31,
+    "tournaments": [
+      2022,
+      2018,
+      2014,
+      2006,
+      1998,
+      1978
+    ],
+    "points": 13
+  },
+  {
+    "code": "CMR",
+    "name": "Cameroon",
+    "played": 34,
+    "wins": 8,
+    "draws": 8,
+    "losses": 18,
+    "goalsFor": 34,
+    "goalsAgainst": 59,
+    "tournaments": [
+      2022,
+      2019,
+      2015,
+      2014,
+      2010,
+      2002,
+      1998,
+      1994,
+      1990,
+      1982
+    ],
+    "points": 32
+  },
+  {
+    "code": "NZL",
+    "name": "New Zealand",
+    "played": 21,
+    "wins": 0,
+    "draws": 6,
+    "losses": 15,
+    "goalsFor": 12,
+    "goalsAgainst": 48,
+    "tournaments": [
+      2019,
+      2015,
+      2011,
+      2010,
+      2007,
+      1991,
+      1982
+    ],
+    "points": 6
+  },
+  {
+    "code": "DZA",
+    "name": "Algeria",
+    "played": 13,
+    "wins": 3,
+    "draws": 3,
+    "losses": 7,
+    "goalsFor": 13,
+    "goalsAgainst": 19,
+    "tournaments": [
+      2014,
+      2010,
+      1986,
+      1982
+    ],
+    "points": 12
+  },
+  {
+    "code": "HND",
+    "name": "Honduras",
+    "played": 9,
+    "wins": 0,
+    "draws": 3,
+    "losses": 6,
+    "goalsFor": 3,
+    "goalsAgainst": 14,
+    "tournaments": [
+      2014,
+      2010,
+      1982
+    ],
+    "points": 3
+  },
+  {
+    "code": "KWT",
+    "name": "Kuwait",
+    "played": 3,
+    "wins": 0,
+    "draws": 1,
+    "losses": 2,
+    "goalsFor": 2,
+    "goalsAgainst": 6,
+    "tournaments": [
+      1982
+    ],
+    "points": 1
+  },
+  {
+    "code": "CAN",
+    "name": "Canada",
+    "played": 33,
+    "wins": 8,
+    "draws": 5,
+    "losses": 20,
+    "goalsFor": 36,
+    "goalsAgainst": 64,
+    "tournaments": [
+      2022,
+      2019,
+      2015,
+      2011,
+      2007,
+      2003,
+      1999,
+      1995,
+      1986
+    ],
+    "points": 29
+  },
+  {
+    "code": "IRQ",
+    "name": "Iraq",
+    "played": 3,
+    "wins": 0,
+    "draws": 0,
+    "losses": 3,
+    "goalsFor": 1,
+    "goalsAgainst": 4,
+    "tournaments": [
+      1986
+    ],
+    "points": 0
+  },
+  {
+    "code": "DNK",
+    "name": "Denmark",
+    "played": 37,
+    "wins": 12,
+    "draws": 7,
+    "losses": 18,
+    "goalsFor": 50,
+    "goalsAgainst": 55,
+    "tournaments": [
+      2022,
+      2018,
+      2010,
+      2007,
+      2002,
+      1999,
+      1998,
+      1995,
+      1991,
+      1986
+    ],
+    "points": 43
+  },
+  {
+    "code": "ARE",
+    "name": "United Arab Emirates",
+    "played": 3,
+    "wins": 0,
+    "draws": 0,
+    "losses": 3,
+    "goalsFor": 2,
+    "goalsAgainst": 11,
+    "tournaments": [
+      1990
+    ],
+    "points": 0
+  },
+  {
+    "code": "CRI",
+    "name": "Costa Rica",
+    "played": 24,
+    "wins": 6,
+    "draws": 7,
+    "losses": 11,
+    "goalsFor": 25,
+    "goalsAgainst": 43,
+    "tournaments": [
+      2022,
+      2018,
+      2015,
+      2014,
+      2006,
+      2002,
+      1990
+    ],
+    "points": 25
+  },
+  {
+    "code": "IRL",
+    "name": "Republic of Ireland",
+    "played": 13,
+    "wins": 2,
+    "draws": 8,
+    "losses": 3,
+    "goalsFor": 10,
+    "goalsAgainst": 10,
+    "tournaments": [
+      2002,
+      1994,
+      1990
+    ],
+    "points": 14
+  },
+  {
+    "code": "CHN",
+    "name": "China",
+    "played": 36,
+    "wins": 16,
+    "draws": 7,
+    "losses": 13,
+    "goalsFor": 53,
+    "goalsAgainst": 41,
+    "tournaments": [
+      2019,
+      2015,
+      2007,
+      2003,
+      2002,
+      1999,
+      1995,
+      1991
+    ],
+    "points": 55
+  },
+  {
+    "code": "NGA",
+    "name": "Nigeria",
+    "played": 47,
+    "wins": 10,
+    "draws": 6,
+    "losses": 31,
+    "goalsFor": 43,
+    "goalsAgainst": 93,
+    "tournaments": [
+      2019,
+      2018,
+      2015,
+      2014,
+      2011,
+      2010,
+      2007,
+      2003,
+      2002,
+      1999,
+      1998,
+      1995,
+      1994,
+      1991
+    ],
+    "points": 36
+  },
+  {
+    "code": "JPN",
+    "name": "Japan",
+    "played": 58,
+    "wins": 21,
+    "draws": 10,
+    "losses": 27,
+    "goalsFor": 64,
+    "goalsAgainst": 92,
+    "tournaments": [
+      2022,
+      2019,
+      2018,
+      2015,
+      2014,
+      2011,
+      2010,
+      2007,
+      2006,
+      2003,
+      2002,
+      1999,
+      1998,
+      1995,
+      1991
+    ],
+    "points": 73
+  },
+  {
+    "code": "TWN",
+    "name": "Chinese Taipei",
+    "played": 4,
+    "wins": 1,
+    "draws": 0,
+    "losses": 3,
+    "goalsFor": 2,
+    "goalsAgainst": 15,
+    "tournaments": [
+      1991
+    ],
+    "points": 3
+  },
+  {
+    "code": "RUS",
+    "name": "Russia",
+    "played": 22,
+    "wins": 8,
+    "draws": 4,
+    "losses": 10,
+    "goalsFor": 40,
+    "goalsAgainst": 34,
+    "tournaments": [
+      2018,
+      2014,
+      2003,
+      2002,
+      1999,
+      1994
+    ],
+    "points": 28
+  },
+  {
+    "code": "SAU",
+    "name": "Saudi Arabia",
+    "played": 19,
+    "wins": 4,
+    "draws": 2,
+    "losses": 13,
+    "goalsFor": 14,
+    "goalsAgainst": 44,
+    "tournaments": [
+      2022,
+      2018,
+      2006,
+      2002,
+      1998,
+      1994
+    ],
+    "points": 14
+  },
+  {
+    "code": "GRC",
+    "name": "Greece",
+    "played": 10,
+    "wins": 2,
+    "draws": 2,
+    "losses": 6,
+    "goalsFor": 5,
+    "goalsAgainst": 20,
+    "tournaments": [
+      2014,
+      2010,
+      1994
+    ],
+    "points": 8
+  },
+  {
+    "code": "ZAF",
+    "name": "South Africa",
+    "played": 12,
+    "wins": 2,
+    "draws": 4,
+    "losses": 6,
+    "goalsFor": 12,
+    "goalsAgainst": 24,
+    "tournaments": [
+      2019,
+      2010,
+      2002,
+      1998
+    ],
+    "points": 10
+  },
+  {
+    "code": "JAM",
+    "name": "Jamaica",
+    "played": 6,
+    "wins": 1,
+    "draws": 0,
+    "losses": 5,
+    "goalsFor": 4,
+    "goalsAgainst": 21,
+    "tournaments": [
+      2019,
+      1998
+    ],
+    "points": 3
+  },
+  {
+    "code": "HRV",
+    "name": "Croatia",
+    "played": 30,
+    "wins": 13,
+    "draws": 8,
+    "losses": 9,
+    "goalsFor": 43,
+    "goalsAgainst": 33,
+    "tournaments": [
+      2022,
+      2018,
+      2014,
+      2006,
+      2002,
+      1998
+    ],
+    "points": 47
+  },
+  {
+    "code": "GHA",
+    "name": "Ghana",
+    "played": 24,
+    "wins": 6,
+    "draws": 4,
+    "losses": 14,
+    "goalsFor": 24,
+    "goalsAgainst": 53,
+    "tournaments": [
+      2022,
+      2014,
+      2010,
+      2007,
+      2006,
+      2003,
+      1999
+    ],
+    "points": 22
+  },
+  {
+    "code": "SEN",
+    "name": "Senegal",
+    "played": 12,
+    "wins": 5,
+    "draws": 3,
+    "losses": 4,
+    "goalsFor": 16,
+    "goalsAgainst": 17,
+    "tournaments": [
+      2022,
+      2018,
+      2002
+    ],
+    "points": 18
+  },
+  {
+    "code": "SVN",
+    "name": "Slovenia",
+    "played": 6,
+    "wins": 1,
+    "draws": 1,
+    "losses": 4,
+    "goalsFor": 5,
+    "goalsAgainst": 10,
+    "tournaments": [
+      2010,
+      2002
+    ],
+    "points": 4
+  },
+  {
+    "code": "ECU",
+    "name": "Ecuador",
+    "played": 16,
+    "wins": 5,
+    "draws": 2,
+    "losses": 9,
+    "goalsFor": 15,
+    "goalsAgainst": 31,
+    "tournaments": [
+      2022,
+      2015,
+      2014,
+      2006,
+      2002
+    ],
+    "points": 17
+  },
+  {
+    "code": "TTO",
+    "name": "Trinidad and Tobago",
+    "played": 3,
+    "wins": 0,
+    "draws": 1,
+    "losses": 2,
+    "goalsFor": 0,
+    "goalsAgainst": 4,
+    "tournaments": [
+      2006
+    ],
+    "points": 1
+  },
+  {
+    "code": "CIV",
+    "name": "Ivory Coast",
+    "played": 12,
+    "wins": 3,
+    "draws": 1,
+    "losses": 8,
+    "goalsFor": 16,
+    "goalsAgainst": 30,
+    "tournaments": [
+      2015,
+      2014,
+      2010,
+      2006
+    ],
+    "points": 10
+  },
+  {
+    "code": "SCG",
+    "name": "Serbia and Montenegro",
+    "played": 3,
+    "wins": 0,
+    "draws": 0,
+    "losses": 3,
+    "goalsFor": 2,
+    "goalsAgainst": 10,
+    "tournaments": [
+      2006
+    ],
+    "points": 0
+  },
+  {
+    "code": "AGO",
+    "name": "Angola",
+    "played": 3,
+    "wins": 0,
+    "draws": 2,
+    "losses": 1,
+    "goalsFor": 1,
+    "goalsAgainst": 2,
+    "tournaments": [
+      2006
+    ],
+    "points": 2
+  },
+  {
+    "code": "CZE",
+    "name": "Czech Republic",
+    "played": 3,
+    "wins": 1,
+    "draws": 0,
+    "losses": 2,
+    "goalsFor": 3,
+    "goalsAgainst": 4,
+    "tournaments": [
+      2006
+    ],
+    "points": 3
+  },
+  {
+    "code": "TGO",
+    "name": "Togo",
+    "played": 3,
+    "wins": 0,
+    "draws": 0,
+    "losses": 3,
+    "goalsFor": 1,
+    "goalsAgainst": 6,
+    "tournaments": [
+      2006
+    ],
+    "points": 0
+  },
+  {
+    "code": "UKR",
+    "name": "Ukraine",
+    "played": 5,
+    "wins": 2,
+    "draws": 1,
+    "losses": 2,
+    "goalsFor": 5,
+    "goalsAgainst": 7,
+    "tournaments": [
+      2006
+    ],
+    "points": 7
+  },
+  {
+    "code": "SRB",
+    "name": "Serbia",
+    "played": 9,
+    "wins": 2,
+    "draws": 1,
+    "losses": 6,
+    "goalsFor": 9,
+    "goalsAgainst": 15,
+    "tournaments": [
+      2022,
+      2018,
+      2010
+    ],
+    "points": 7
+  },
+  {
+    "code": "SVK",
+    "name": "Slovakia",
+    "played": 4,
+    "wins": 1,
+    "draws": 1,
+    "losses": 2,
+    "goalsFor": 5,
+    "goalsAgainst": 7,
+    "tournaments": [
+      2010
+    ],
+    "points": 4
+  },
+  {
+    "code": "GNQ",
+    "name": "Equatorial Guinea",
+    "played": 3,
+    "wins": 0,
+    "draws": 0,
+    "losses": 3,
+    "goalsFor": 2,
+    "goalsAgainst": 7,
+    "tournaments": [
+      2011
+    ],
+    "points": 0
+  },
+  {
+    "code": "BIH",
+    "name": "Bosnia and Herzegovina",
+    "played": 3,
+    "wins": 1,
+    "draws": 0,
+    "losses": 2,
+    "goalsFor": 4,
+    "goalsAgainst": 4,
+    "tournaments": [
+      2014
+    ],
+    "points": 3
+  },
+  {
+    "code": "THA",
+    "name": "Thailand",
+    "played": 6,
+    "wins": 1,
+    "draws": 0,
+    "losses": 5,
+    "goalsFor": 4,
+    "goalsAgainst": 30,
+    "tournaments": [
+      2019,
+      2015
+    ],
+    "points": 3
+  },
+  {
+    "code": "ISL",
+    "name": "Iceland",
+    "played": 3,
+    "wins": 0,
+    "draws": 1,
+    "losses": 2,
+    "goalsFor": 2,
+    "goalsAgainst": 5,
+    "tournaments": [
+      2018
+    ],
+    "points": 1
+  },
+  {
+    "code": "PAN",
+    "name": "Panama",
+    "played": 3,
+    "wins": 0,
+    "draws": 0,
+    "losses": 3,
+    "goalsFor": 2,
+    "goalsAgainst": 11,
+    "tournaments": [
+      2018
+    ],
+    "points": 0
+  },
+  {
+    "code": "QAT",
+    "name": "Qatar",
+    "played": 3,
+    "wins": 0,
+    "draws": 0,
+    "losses": 3,
+    "goalsFor": 1,
+    "goalsAgainst": 7,
+    "tournaments": [
+      2022
+    ],
+    "points": 0
+  }
+]

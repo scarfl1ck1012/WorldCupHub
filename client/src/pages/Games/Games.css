@@ -1,0 +1,57 @@
+.games-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: var(--space-4);
+}
+
+.game-card {
+  padding: var(--space-5);
+  transition: border-color var(--transition-fast);
+}
+.game-card:hover { border-color: var(--wc-green); }
+.game-icon { font-size: 2.5rem; display: block; margin-bottom: var(--space-3); }
+.game-card h3 { margin-bottom: var(--space-2); }
+.game-card p { font-size: var(--text-sm); color: var(--text-muted); }
+
+.streak-score {
+  text-align: center;
+  padding: var(--space-5);
+  margin-bottom: var(--space-4);
+}
+.streak-score span { display: block; color: var(--text-muted); font-size: var(--text-sm); }
+.streak-score strong { font-size: var(--text-2xl); color: var(--wc-gold); }
+
+.streak-match { padding: var(--space-4); }
+.streak-teams {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: var(--space-4) 0;
+  font-weight: 600;
+}
+.streak-result { text-align: center; margin-top: var(--space-4); }
+
+.battle-result { padding: var(--space-6); text-align: center; }
+.battle-scores {
+  display: flex;
+  justify-content: center;
+  gap: var(--space-6);
+  margin: var(--space-4) 0;
+}
+.battle-scores div { display: flex; flex-direction: column; }
+.battle-scores strong { font-size: var(--text-2xl); }
+
+.pick-buttons { display: flex; gap: var(--space-2); margin-top: var(--space-3); }
+.pick-btn {
+  flex: 1;
+  padding: var(--space-3);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  background: transparent;
+  color: var(--text-primary);
+  font-weight: 700;
+  cursor: pointer;
+}
+.pick-btn.active { background: var(--wc-green); color: #000; }
+
+.prediction-card { padding: var(--space-3); margin-bottom: var(--space-3); }

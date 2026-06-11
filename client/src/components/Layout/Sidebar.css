@@ -1,0 +1,68 @@
+.sidebar {
+  width: 250px;
+  height: 100vh;
+  background: var(--bg-glass);
+  border-right: 1px solid var(--border-subtle);
+  display: flex;
+  flex-direction: column;
+  padding: var(--space-4);
+}
+
+.sidebar-brand {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  padding: var(--space-3) 0 var(--space-5);
+  border-bottom: 1px solid var(--border-subtle);
+  margin-bottom: var(--space-4);
+}
+
+.logo-icon { font-size: 2rem; }
+.logo-title { display: block; font-weight: 700; font-size: var(--text-lg); }
+.logo-sub { display: block; font-size: var(--text-xs); color: var(--wc-gold); }
+
+.sidebar-nav { flex: 1; overflow-y: auto; }
+
+.nav-group { margin-bottom: var(--space-4); }
+.nav-group-label {
+  font-size: 10px;
+  font-weight: 600;
+  color: var(--text-muted);
+  letter-spacing: 0.08em;
+  padding: var(--space-2) var(--space-3);
+}
+
+.nav-item {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  padding: 0.65rem var(--space-3);
+  border-radius: var(--radius-md);
+  color: var(--text-muted);
+  font-size: var(--text-sm);
+  font-weight: 500;
+  transition: var(--transition-fast);
+  margin-bottom: 2px;
+}
+
+.nav-item:hover { background: rgba(255,255,255,0.05); color: var(--text-primary); }
+.nav-item-active {
+  background: rgba(0, 200, 83, 0.12);
+  color: var(--wc-green);
+}
+
+.sidebar-footer { padding-top: var(--space-4); border-top: 1px solid var(--border-subtle); }
+.season-badge {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  font-size: var(--text-xs);
+  color: var(--text-muted);
+}
+.season-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--wc-green);
+  animation: pulse 2s infinite;
+}

@@ -1,0 +1,46 @@
+.match-card {
+  padding: var(--space-4);
+  margin-bottom: var(--space-3);
+  transition: border-color var(--transition-fast);
+}
+.match-card:hover { border-color: var(--border-glow); }
+
+.match-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: var(--space-3);
+}
+.match-stage { font-size: var(--text-xs); color: var(--text-muted); font-weight: 600; }
+
+.match-teams {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-3);
+  margin-bottom: var(--space-2);
+}
+.match-team {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  flex: 1;
+}
+.match-team.away { justify-content: flex-end; }
+.team-flag { font-size: 1.5rem; }
+.team-name { font-weight: 600; font-size: var(--text-sm); }
+.team-score { font-size: var(--text-xl); font-weight: 700; font-variant-numeric: tabular-nums; }
+.match-vs { color: var(--text-muted); font-size: var(--text-sm); }
+
+.match-meta {
+  font-size: var(--text-xs);
+  color: var(--text-muted);
+  margin-bottom: var(--space-3);
+}
+
+.cheer-row {
+  display: flex;
+  gap: var(--space-2);
+  margin-top: var(--space-3);
+}
+.cheer-row .btn { flex: 1; }

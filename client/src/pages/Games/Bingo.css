@@ -1,0 +1,40 @@
+.bingo-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 4px;
+  margin: var(--space-5) 0;
+  max-width: 500px;
+}
+
+.bingo-cell {
+  aspect-ratio: 1;
+  padding: 6px;
+  font-size: 9px;
+  font-weight: 600;
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-sm);
+  background: rgba(0,0,0,0.3);
+  color: var(--text-primary);
+  cursor: pointer;
+  transition: var(--transition-fast);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.bingo-cell:hover:not(.free) { border-color: var(--wc-green); }
+.bingo-cell.marked { background: var(--wc-green); color: #000; }
+.bingo-cell.free { background: var(--wc-gold); color: #000; font-size: var(--text-sm); cursor: default; }
+
+.bingo-win {
+  background: linear-gradient(135deg, rgba(255,215,0,0.2), rgba(0,200,83,0.2));
+  border: 1px solid var(--wc-gold);
+  padding: var(--space-4);
+  border-radius: var(--radius-lg);
+  text-align: center;
+  font-weight: 700;
+  font-size: var(--text-lg);
+  margin-bottom: var(--space-4);
+  animation: pulse 1s infinite;
+}

@@ -1,0 +1,26 @@
+.auth-page { max-width: 400px; margin: 0 auto; }
+.auth-card { padding: var(--space-6); }
+.auth-card h1 { margin-bottom: var(--space-2); }
+.auth-card > p { color: var(--text-muted); font-size: var(--text-sm); margin-bottom: var(--space-5); }
+
+.auth-card form { display: flex; flex-direction: column; gap: var(--space-3); }
+.auth-card input {
+  padding: var(--space-3);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  background: rgba(0,0,0,0.3);
+  color: var(--text-primary);
+  font-size: var(--text-base);
+}
+.auth-error { color: var(--danger); font-size: var(--text-sm); }
+
+.auth-toggle {
+  background: none;
+  border: none;
+  color: var(--wc-green);
+  font-size: var(--text-sm);
+  margin-top: var(--space-4);
+  cursor: pointer;
+  width: 100%;
+  text-align: center;
+}

@@ -1,0 +1,54 @@
+.sim-actions { display: flex; gap: var(--space-3); margin-bottom: var(--space-5); flex-wrap: wrap; }
+
+.mc-chart { padding: var(--space-4); margin-bottom: var(--space-5); }
+.mc-chart h3 { margin-bottom: var(--space-3); color: var(--wc-gold); }
+
+.champion-banner {
+  text-align: center;
+  padding: var(--space-6);
+  margin-bottom: var(--space-4);
+  background: linear-gradient(135deg, rgba(255,215,0,0.1), rgba(0,200,83,0.05));
+  border-color: var(--wc-gold);
+}
+.champion-banner span { display: block; font-size: var(--text-sm); color: var(--wc-gold); }
+.champion-banner strong { font-size: var(--text-2xl); display: block; margin-top: var(--space-2); }
+
+.standings-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: var(--space-3);
+  margin-bottom: var(--space-5);
+}
+.group-standings { padding: var(--space-3); }
+.group-standings h4 { color: var(--wc-green); margin-bottom: var(--space-2); font-size: var(--text-sm); }
+.group-standings table { width: 100%; font-size: var(--text-xs); }
+.group-standings th, .group-standings td { padding: 4px; text-align: left; }
+
+.knockout-bracket { padding: var(--space-4); margin-bottom: var(--space-5); }
+.knockout-bracket h3 { margin-bottom: var(--space-3); }
+.bracket-match {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  padding: var(--space-2) 0;
+  border-bottom: 1px solid var(--border-subtle);
+  font-size: var(--text-sm);
+}
+.bracket-stage { color: var(--text-muted); min-width: 100px; }
+.bracket-winner { color: var(--wc-gold); font-weight: 600; }
+
+.group-picks { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: var(--space-3); }
+.group-pick { padding: var(--space-3); }
+.pick-label { font-size: var(--text-xs); display: block; margin-bottom: var(--space-2); }
+.pick-scores { display: flex; align-items: center; gap: var(--space-2); }
+.pick-scores input {
+  width: 40px;
+  padding: 4px;
+  text-align: center;
+  background: rgba(0,0,0,0.3);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-sm);
+  color: var(--text-primary);
+}
+
+.section-title { font-size: var(--text-lg); margin: var(--space-5) 0 var(--space-3); }

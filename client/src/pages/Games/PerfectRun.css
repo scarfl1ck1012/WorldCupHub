@@ -1,0 +1,41 @@
+.setup-panel { padding: var(--space-5); }
+.setup-panel h3 { margin: var(--space-4) 0 var(--space-2); color: var(--wc-gold); font-size: var(--text-sm); }
+.option-row { display: flex; gap: var(--space-2); margin-bottom: var(--space-3); flex-wrap: wrap; }
+.toggle-row { display: flex; align-items: center; gap: var(--space-2); margin: var(--space-4) 0; font-size: var(--text-sm); }
+
+.draft-progress {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: var(--space-4);
+  font-size: var(--text-sm);
+}
+
+.spin-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: var(--space-3);
+  margin-bottom: var(--space-4);
+}
+
+.legend-card {
+  padding: var(--space-3);
+  text-align: center;
+  cursor: pointer;
+  border: 1px solid var(--border-subtle);
+  background: transparent;
+  color: var(--text-primary);
+  transition: border-color var(--transition-fast);
+}
+.legend-card:hover { border-color: var(--wc-green); }
+.legend-flag { font-size: 1.5rem; display: block; }
+.legend-card strong { display: block; margin: 4px 0; font-size: var(--text-sm); }
+.legend-card span { font-size: 10px; color: var(--text-muted); }
+.legend-rating { color: var(--wc-gold) !important; font-weight: 700; font-size: var(--text-sm) !important; }
+
+.xi-so-far { font-size: var(--text-xs); color: var(--text-muted); display: flex; flex-wrap: wrap; gap: var(--space-2); }
+
+.result-panel { padding: var(--space-6); text-align: center; }
+.result-panel h2 { font-size: var(--text-2xl); margin-bottom: var(--space-3); }
+.xi-final { text-align: left; margin: var(--space-4) 0; font-size: var(--text-sm); }
+.xi-final div { padding: 4px 0; }
